@@ -43,7 +43,7 @@ Como este é um repositório pessoal com exercícios da faculdade, não estou ac
 
 ## Autor
 
-[Seu Nome]
+Kauã Ricardo de Castro Galvão
 
 ## Licença
 
