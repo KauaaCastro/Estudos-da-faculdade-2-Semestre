@@ -1,6 +1,4 @@
-Legal! Com essas informações, posso criar um esboço de README para você. Sinta-se à vontade para adicionar ou modificar qualquer parte depois, ok?
 
-Markdown
 
 # Estudos da Faculdade - 2º Semestre
 
